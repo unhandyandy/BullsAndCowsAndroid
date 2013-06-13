@@ -1,0 +1,23 @@
+/home/dabrowsa/mygit/BullsAndCowsAndroid/gen/org/unhandyandy/games/R.java \
+ : /home/dabrowsa/mygit/BullsAndCowsAndroid/res/values/strings.xml \
+/home/dabrowsa/mygit/BullsAndCowsAndroid/res/layout/main.xml \
+/home/dabrowsa/mygit/BullsAndCowsAndroid/res/drawable/icon.png \
+/home/dabrowsa/mygit/BullsAndCowsAndroid/res/drawable-xhdpi/ic_launcher.png \
+/home/dabrowsa/mygit/BullsAndCowsAndroid/res/drawable-xhdpi/icon.png \
+/home/dabrowsa/mygit/BullsAndCowsAndroid/res/xml/config.xml \
+/home/dabrowsa/mygit/BullsAndCowsAndroid/res/drawable-mdpi/ic_launcher.png \
+/home/dabrowsa/mygit/BullsAndCowsAndroid/res/drawable-mdpi/icon.png \
+/home/dabrowsa/mygit/BullsAndCowsAndroid/res/drawable-hdpi/ic_launcher.png \
+/home/dabrowsa/mygit/BullsAndCowsAndroid/res/drawable-hdpi/icon.png \
+/home/dabrowsa/mygit/BullsAndCowsAndroid/res/drawable-ldpi/ic_launcher.png \
+/home/dabrowsa/mygit/BullsAndCowsAndroid/res/drawable-ldpi/icon.png \
+/home/dabrowsa/mygit/BullsAndCowsAndroid/bin/res/drawable/icon.png \
+/home/dabrowsa/mygit/BullsAndCowsAndroid/bin/res/drawable-xhdpi/ic_launcher.png \
+/home/dabrowsa/mygit/BullsAndCowsAndroid/bin/res/drawable-xhdpi/icon.png \
+/home/dabrowsa/mygit/BullsAndCowsAndroid/bin/res/drawable-mdpi/ic_launcher.png \
+/home/dabrowsa/mygit/BullsAndCowsAndroid/bin/res/drawable-mdpi/icon.png \
+/home/dabrowsa/mygit/BullsAndCowsAndroid/bin/res/drawable-hdpi/ic_launcher.png \
+/home/dabrowsa/mygit/BullsAndCowsAndroid/bin/res/drawable-hdpi/icon.png \
+/home/dabrowsa/mygit/BullsAndCowsAndroid/bin/res/drawable-ldpi/ic_launcher.png \
+/home/dabrowsa/mygit/BullsAndCowsAndroid/bin/res/drawable-ldpi/icon.png \
+/home/dabrowsa/mygit/BullsAndCowsAndroid/bin/AndroidManifest.xml \
